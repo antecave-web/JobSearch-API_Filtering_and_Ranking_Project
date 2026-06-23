@@ -6,6 +6,12 @@ The goal of the project is to reduce the time required to search large numbers o
 
 ---
 
+## Example Output
+
+![Example Output](images/job_ranking_example.png)
+
+---
+
 ## Project Status
 
 🚧 **Work in Progress**
